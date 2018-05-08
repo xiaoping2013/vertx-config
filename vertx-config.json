@@ -1,7 +1,7 @@
 {
   "http.server" : {
-    "port": 9191,
-    "xxx": "hello git9191..."
+    "port": 8010,
+    "xxx": "hello git8010..."
   },
   "db" : {
     "jdbc.url": "",
