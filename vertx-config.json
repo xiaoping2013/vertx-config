@@ -1,6 +1,6 @@
 {
   "http.server" : {
-    "port": 6666,
-    "xxx": "hello git726666..."
+    "port": 9999,
+    "xxx": "hello git9999..."
   }
 }
