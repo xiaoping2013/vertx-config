@@ -2,5 +2,11 @@
   "http.server" : {
     "port": 3335,
     "xxx": "hello git3335..."
+  },
+  "db" : {
+    "jdbc.url": "",
+    "jdbc.driver": "",
+    "jdbc.username": "",
+    "jdbc.password": ""
   }
 }
