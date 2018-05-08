@@ -6,7 +6,7 @@
   "db" : {
     "jdbc.url": "",
     "jdbc.driver": "",
-    "jdbc.username": "",
-    "jdbc.password": ""
+    "jdbc.username": "admin",
+    "jdbc.password": "123456"
   }
 }
